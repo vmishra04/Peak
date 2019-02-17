@@ -1,2 +1,2 @@
-# Peak
+# PEAK
 Virtual Interview Prep
